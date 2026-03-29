@@ -7,11 +7,11 @@ Tutorial:
 - Click on the highlighted link in messages
 
 Links for the PS5:
-- Search Engine - https://duckduckgo.com
-- Search Engine - https://google.com
-- Games - https://neal.fun
-- Videos - https://youtube.com
-- Videos - https://hulu.com
-- AI - https://chatgpt.com
-- Videos - https://twitch.tv
-- Archival - https://archive.org
+- Search Engine - <a href="https://duckduckgo.com">DuckDuckGo</a>
+- Search Engine - <a href="https://google.com">Google</a>
+- Games - <a href="https://neal.fun">neal.fun</a>
+- Videos - <a href="https://youtube.com">YouTube</a>
+- Videos - <a href="https://hulu.com">Hulu</a>
+- AI - <a href="https://chatgpt.com">ChatGPT</a>
+- Videos - <a href="https://twitch.tv">Twitch</a>
+- Archival - <a href="https://archive.org">Intrnet Archive</a>
