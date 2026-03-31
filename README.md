@@ -8,8 +8,8 @@ Tutorial:
 - Press on the hyperlinks to quickly go to sites that are usually blocked
 
 Links for the PS5:
-- Search Engine - <a href="https://duckduckgo.com">DuckDuckGo</a>
-- Search Engine - <a href="https://google.com">Google</a>
+- Search Engine - <a href="https://duckduckgo.com">DuckDuckGo</a> (recommended for PS5)
+- Search Engine - <a href="https://google.com">Google</a> (not recommended for PS5)
 - Games - <a href="https://neal.fun">neal.fun</a>
 - Videos - <a href="https://youtube.com">YouTube</a>
 - Videos - <a href="https://hulu.com">Hulu</a>
