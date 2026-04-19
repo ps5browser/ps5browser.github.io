@@ -3,23 +3,26 @@ Use the ps5's hidden browser
 
 Tutorial:
 - Open messages on your PS5
-- Text a random account or an alt "ps5browser.github.io" without quotes
-- Click on the highlighted link in messages
+- Message anyone on PlayStation "ps5browser.github.io" without quotes
+- Click on the highlighted link
 - Press on the hyperlinks to quickly go to sites that are usually blocked
 
+-- <a href="https://blobby-boi.github.io/URLRedirector/">Go ANYWHERE</a> --
+
 Links for the PS5:
-- Search Engine - <a href="https://duckduckgo.com">DuckDuckGo</a> (recommended for PS5)
-- Search Engine - <a href="https://google.com">Google</a> (not recommended for PS5)
+- Search Engine - <a href="https://duckduckgo.com">DuckDuckGo</a>
 - Games - <a href="https://neal.fun">neal.fun</a>
+- Games - <a href="https://skribbl.io">Skribbl</a>
+- Games - <a href="https://slither.io">Slither</a>
+- Games - <a href="https://splix.io">Splix</a>
+- Games - <a href="https://geometrydash.com">Geometry Dash</a>
 - Videos - <a href="https://youtube.com">YouTube</a>
 - Videos - <a href="https://hulu.com">Hulu</a>
 - Videos - <a href="https://netflix.com">Netflix</a>
-- AI - <a href="https://chatgpt.com">ChatGPT</a>
 - Videos - <a href="https://twitch.tv">Twitch</a>
+- AI - <a href="https://chatgpt.com">ChatGPT</a>
+- AI - <a href="https://duck.ai">Duck.ai</a>
 - Archival - <a href="https://archive.org">Internet Archive</a>
-- Games - <a href="https://skribbl.io">Skribbl</a>
-- Games - <a href="https://slither.io">Slither</a>
-- Games - <a href="https://splix.io">Splix</a> (why do all io games begin with s?)
 
 
 <p>I made this because PlayStation seems to really hate the web browser. They have hidden it and made it extremely hard to access and use because of jailbreaks, but this also removes some critical features. What if you want to play with your friends on an io game? What if you want to have youtube or twitch on the side of your screen while gaming?
