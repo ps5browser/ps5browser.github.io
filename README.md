@@ -32,4 +32,4 @@ Links for the PS5:
 What if all of your devices are dead and you need to look up something? I have made this website an easy to access page for quick links to press that people usually go to. Have fun, random stranger! I hope you find this of use to you.</p>
 
 
-<p>psst, hey, also check this out! https://sourcepigeon.github.io</p>
+psst, hey, also check this out! <a href="https://sourcepigeon.github.io">sourcepigeon</a>
