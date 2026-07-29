@@ -30,3 +30,6 @@ Links for the PS5:
 
 <p>I made this because PlayStation seems to really hate the web browser. They have hidden it and made it extremely hard to access and use because of jailbreaks, but this also removes some critical features. What if you want to play with your friends on an io game? What if you want to have youtube or twitch on the side of your screen while gaming?
 What if all of your devices are dead and you need to look up something? I have made this website an easy to access page for quick links to press that people usually go to. Have fun, random stranger! I hope you find this of use to you.</p>
+
+
+<p>psst, hey, also check this out! https://sourcepigeon.github.io</p>
