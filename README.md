@@ -4,10 +4,11 @@ Use the ps5's hidden browser
 Tutorial:
 - Open messages on your PS5
 - Message anyone on PlayStation "ps5browser.github.io" without quotes
+- Wait for a few seconds
 - Click on the highlighted link
-- Press on the hyperlinks to quickly go to sites that are usually blocked
+- Press on the hyperlinks below to quickly go to sites that are usually blocked
 
--- <a href="https://blobby-boi.github.io/URLRedirector/">Go to ANY WEBSITE</a> --
+-- <a href="https://blobby-boi.github.io/URLRedirector/">blobby-boi URL Redirector</a> --
 
 Links for the PS5:
 - Free Media - <a href="https://archive.org">Internet Archive</a>
