@@ -11,6 +11,7 @@ Tutorial:
 -- <a href="https://blobby-boi.github.io/URLRedirector/">blobby-boi URL Redirector</a> --
 
 Links for the PS5:
+- Ryry Only - <a href="https://cazjelly.duckdns.org">Jellyfin for Ryry</a>
 - Free Media - <a href="https://archive.org">Internet Archive</a>
 - Free Media - <a href="https://fmhy.net/video">Free Media Heck Yeah</a>
 - Free Media - <a href="https://anicine.xyz">Anicine</a>
@@ -26,6 +27,7 @@ Links for the PS5:
 - Videos - <a href="https://twitch.tv">Twitch</a>
 - AI - <a href="https://chatgpt.com">ChatGPT</a>
 - AI - <a href="https://duck.ai">Duck.ai</a>
+
 
 
 <p>I made this because PlayStation seems to really hate the web browser. They have hidden it and made it extremely hard to access and use because of jailbreaks, but this also removes some critical features. What if you want to play with your friends on an io game? What if you want to have youtube or twitch on the side of your screen while gaming?
