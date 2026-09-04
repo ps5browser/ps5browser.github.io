@@ -13,7 +13,7 @@ Tutorial:
 Links for the PS5:
 - Free Media - <a href="https://archive.org">Internet Archive</a>
 - Free Media - <a href="https://fmhy.net/video">Free Media Heck Yeah</a>
-- Free Media - <a href="https://tubitv.com">Tubi (Legal) (Has Ads)</a>
+- Free Media - <a href="https://anicine.xyz">Anicine</a>
 - Search Engine - <a href="https://duckduckgo.com">DuckDuckGo</a>
 - Games - <a href="https://neal.fun">neal.fun</a>
 - Games - <a href="https://skribbl.io">Skribbl</a>
